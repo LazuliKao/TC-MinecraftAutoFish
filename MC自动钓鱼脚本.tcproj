@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<Project>
+<ProjInfo>
+<EnterFile>MC自动钓鱼脚本.t</EnterFile>
+<Language>0</Language>
+<Version>5.2</Version>
+<ExeIco/>
+<Platform>pc</Platform>
+</ProjInfo>
+<DesignInfo>
+<LockedCtrl></LockedCtrl>
+</DesignInfo>
+<VersionInfo>
+<LegalCopyright>(C)&lt;GXH&gt;保留所有版权</LegalCopyright>
+<InternalName>XSBA</InternalName>
+<ProductName>Auto fishing</ProductName>
+<FileDescription>Auto fishing</FileDescription>
+<FileVersion>2.7.0.1</FileVersion>
+<ProductVersion>2.7.0.1</ProductVersion>
+<CompanyName>Pixel Paradis</CompanyName>
+</VersionInfo>
+</Project>
