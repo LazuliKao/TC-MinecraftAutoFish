@@ -1,5 +1,5 @@
 # TC-MinecraftAutoFish
-Minecraft自动钓鱼脚本，采用TC综合开发工具制作
+Minecraft自动钓鱼脚本，采用[TC综合开发工具](http://www1.tyuyan.net/)制作
 
 `>` 采用TC综合开发工具制作
 
